@@ -1,39 +1,32 @@
 # 数据科学的原理与技巧 中文版
 
-原书：[DS-100/textbook](https://github.com/DS-100/textbook/)
+> 原书：[DS-100/textbook](https://github.com/DS-100/textbook/)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+> 
+> 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
 
-译者：[飞龙](https://github.com/wizardforcel)
+* [ApacheCN 机器学习交流群 629470233](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)
+* [ApacheCN 学习资源](http://www.apachecn.org/)
 
-<!--
-+ [在线阅读](https://www.gitbook.com/book/wizardforcel/ds100-textbook/details)
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/ds100-textbook)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/ds100-textbook)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/ds100-textbook)
--->
+## 贡献指南
 
-+ [代码仓库](https://github.com/Kivy-CN/ds100-textbook-zh)
+本项目需要校对，欢迎大家提交 Pull Request。
 
-## 赞助我
+> 请您勇敢地去翻译和改进翻译。虽然我们追求卓越，但我们并不要求您做到十全十美，因此请不要担心因为翻译上犯错——在大部分情况下，我们的服务器已经记录所有的翻译，因此您不必担心会因为您的失误遭到无法挽回的破坏。（改编自维基百科）
 
-![](img/qr_alipay.png)
+## 联系方式
 
-## 协议
+### 负责人
 
-[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* [飞龙](https://github.com/wizardforcel): 562826179
 
-## KivyCN 学习资源
+### 其他
 
-+   [Kivy 中文文档](https://github.com/Kivy-CN/Kivy-CN)
-+ [Think Python 中文第二版](https://github.com/Kivy-CN/ThinkPython-CN)
-+ [UCB CS61a 教材：SICP Python](https://github.com/Kivy-CN/sicp-py-zh)
-+ [Tutorialspoint NumPy 教程](https://github.com/Kivy-CN/ts-numpy-tut-zh)
-+ [Matplotlib 用户指南](https://github.com/Kivy-CN/matplotlib-user-guide-zh)
-+ [斯坦福 CS229 机器学习中文讲义](https://github.com/Kivy-CN/Stanford-CS-229-CN)
-+ [Duke STA663 计算统计学中文讲义](https://github.com/Kivy-CN/Duke-STA-663-CN)
-+ [笨办法学 Python · 续](https://github.com/Kivy-CN/lmpythw-zh)
-+ [笨办法学 Linux](https://github.com/Kivy-CN/llthw-zh)
-+ [数据结构思维](https://github.com/Kivy-CN/think-dast-zh)
-+ [写给人类的机器学习](https://github.com/Kivy-CN/ml-for-humans-zh)
-+   [计算与推断思维 中文版](https://github.com/Kivy-CN/data8-textbook-zh/blob/master/README.md)
-+   [复杂性思考 中文第二版](https://github.com/Kivy-CN/think-comp-2e-zh)
-+   [MLAPP 中文笔记](https://github.com/Kivy-CN/MLAPP-CN)
+*   在我们的 [apachecn/ds100-textbook-zh](https://github.com/apachecn/ds100-textbook-zh) github 上提 issue.
+*   发邮件到 Email: `apachecn@163.com`.
+*   在我们的 [组织学习交流群](http://www.apachecn.org/organization/348.html) 中联系群主/管理员即可.
+
+## 赞助我们
+
+![](http://data.apachecn.org/img/about/donate.jpg)
