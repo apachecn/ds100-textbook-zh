@@ -1,4 +1,4 @@
-# 数据科学的原理与技巧 中文版
+# UCB DS100 数据科学的原理与技巧
 
 > 原书：[DS-100/textbook](https://github.com/DS-100/textbook/)
 > 
