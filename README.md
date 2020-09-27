@@ -12,6 +12,16 @@
 * [UCB Data8 课本：计算与推断思维](https://github.com/apachecn/data8-textbook-zh)
 * [UCB Prob140 课本：面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
 
+## 下载
+
+### NPM
+
+```
+npm install -g dsyilingling-textbook-zh
+dsyilingling-textbook-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ## 贡献指南
 
 项目当前处于校对阶段，请查看[贡献指南](CONTRIBUTING.md)，并在[整体进度](https://github.com/apachecn/ds100-textbook-zh/issues/2)中领取任务。
